@@ -3,7 +3,7 @@ function incrementing()
 	
 	while (index >= 1 and index <= 100) do
 		print("◼", index, "%")
-    wait(0.1)
+                wait(0.1)
 		index += 1
 	end
 end
